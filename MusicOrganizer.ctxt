@@ -18,6 +18,11 @@ comment13.target=void\ readLibrary(java.lang.String)
 comment14.params=
 comment14.target=void\ playRandom()
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+comment15.params=
+comment15.target=void\ playAllRandom()
+>>>>>>> RandomPlaylist
 =======
 comment15.params=
 comment15.target=void\ playAllRandom()
@@ -47,7 +52,11 @@ comment9.params=index
 comment9.target=void\ removeTrack(int)
 comment9.text=\r\n\ Remove\ a\ track\ from\ the\ collection.\r\n\ @param\ index\ The\ index\ of\ the\ track\ to\ be\ removed.\r\n
 <<<<<<< HEAD
+<<<<<<< HEAD
 numComments=15
+=======
+numComments=16
+>>>>>>> RandomPlaylist
 =======
 numComments=16
 >>>>>>> RandomPlaylist
